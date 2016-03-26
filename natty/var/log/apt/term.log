@@ -1,0 +1,5 @@
+
+Log started: 2016-03-26  11:12:05
+Can not write log, openpty() failed (/dev/pts not mounted?)
+Can not write log, openpty() failed (/dev/pts not mounted?)
+Log ended: 2016-03-26  11:12:06

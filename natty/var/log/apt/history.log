@@ -1,0 +1,5 @@
+
+Start-Date: 2016-03-26  11:12:05
+Commandline: apt-get install file
+Install: file:amd64 (5.04-5ubuntu2), libmagic1:amd64 (5.04-5ubuntu2, automatic)
+End-Date: 2016-03-26  11:12:06

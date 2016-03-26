@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/gcc-4.5-base
+/usr/share/doc/gcc-4.5-base/TODO.Debian
+/usr/share/doc/gcc-4.5-base/copyright
+/usr/share/doc/gcc-4.5-base/changelog.Debian.gz
+/usr/share/doc/gcc-4.5-base/README.Debian.amd64.gz
+/usr/share/doc/gcc-4.5-base/README.Debian
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/gcc
+/usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5
+/usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2
+/usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.1
